@@ -34,6 +34,8 @@ Age Group: A significant portion of customers are aged 40-59.
 
 Sales Trends: Sales boomed in 2016.
 
+Maximum Profit Trends: Maximum profit earned in the months of June, November, and December
+
 Profit Source: Major profit comes from the Bike category.
 
 Profitable Regions: High profit is earned from the United States and Australia.
