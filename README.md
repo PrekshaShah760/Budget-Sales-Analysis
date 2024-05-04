@@ -23,11 +23,17 @@ Jupyter Notebook, MS-Power BI
 
 # Conclusion 💡
 Product Pricing: Maximum unit price is under $1000.
+
 Repeat Customers: 36.97% of customers ordered more than once.
+
 Order Size: Typically, 3 to 2 products are ordered per order.
+
 Quantity Ordered: Maximum quantity ordered per product is below 5.
+
 Age Group: A significant portion of customers are aged 40-59.
+
 Sales Trends: Sales boomed in 2016.
+
 Profit Source: Major profit comes from the Bike category.
 Profitable Regions: High profit is earned from the United States and Australia.
 Gender Sales: Sales from males and females are nearly equal.
